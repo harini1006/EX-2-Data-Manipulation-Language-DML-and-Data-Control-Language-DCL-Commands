@@ -46,7 +46,7 @@ update manager set salary=salary+(salary*0.10);
 ### Q10) List the Details of Employees who have joined before 30 Sept 81.
 #### QUERY:
 #### OUTPUT:
-#### Q11) List ename, deptno and sal after sorting emp table in ascending order by deptno and then descending order by sal.
+### Q11) List ename, deptno and sal after sorting emp table in ascending order by deptno and then descending order by sal.
 #### QUERY:
 #### OUTPUT:
 ### Q12) List the names of employees not belonging to dept no 30,40 & 10
